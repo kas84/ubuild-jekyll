@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2019/11/30/Fichajes-optimizado-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2019/11/30/fondo_tramitapp (2).svg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
