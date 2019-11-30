@@ -29,9 +29,9 @@ page_sections:
     url: https://www.tramitapp.com/#
     button_text: Descubre cómo
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2019/11/30/Fichajes-optimizado-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2019/11/30/Fichajes-optimizado-1.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
