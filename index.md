@@ -20,10 +20,9 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: "<strong>Simplifica la gestión del Control Horario y los RRHH<br><br></strong><em>Una
-    única plataforma que reduce los gastos administrativos, aumenta la eficiencia
-    de los empleados y permite un control horario sencillo y sin errores</em>"
+  headline: "<strong>Simplifica la gestión del Control Horario y los RRHH</strong>"
+  content: "<em>Una única plataforma que reduce los gastos administrativos, aumenta
+    la eficiencia de los empleados y permite un control horario sencillo y sin errores</em>"
   cta:
     enabled: true
     url: https://www.tramitapp.com/#
@@ -31,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2019/11/30/Fichajes-optimizado-1.png"
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/2019/11/30/fondo_tramitapp (2).svg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
